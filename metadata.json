@@ -1,0 +1,6 @@
+{
+  "name": "SMK Prima Unggul — Sistem Absensi Siswa & Karyawan",
+  "description": "Aplikasi absensi siswa dan karyawan terintegrasi Supabase untuk SMK Prima Unggul dengan manajemen peran Admin, Guru, dan Tenaga Kependidikan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
